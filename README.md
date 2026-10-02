@@ -80,6 +80,7 @@ O projeto utiliza o **JSON Server** para disponibilizar os dados localmente.
 |--------|-----------|----------------------|
 | GET    | `/alunos` | Lista os alunos      |
 | POST   | `/alunos` | Cadastra um novo aluno |
+| DELETE | `/alunos/:id`  | Exclui um aluno   |
 
 ### Professores
 
