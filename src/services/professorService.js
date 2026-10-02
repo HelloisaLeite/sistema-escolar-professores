@@ -18,5 +18,5 @@ export async function criarProfessor(professor) {
 
 // Método para excluir um professor - Delete
 export async function excluirProfessor(id) {
-  await api.delete("/professor/" + id);
+  await api.delete("/professores/" + id);
 }

@@ -7,14 +7,6 @@
       "cpf": "123.456.789-00",
       "data_nascimento": "2007-05-14",
       "endereco": "Rua das Flores, 123 - Pau dos Ferros/RN"
-    },
-    {
-      "nome": "Helloísa Leite",
-      "email": "helloisa@gmail.com",
-      "cpf": "709.857.494-58",
-      "data_nascimento": "2009-07-28",
-      "endereco": "Alexandria",
-      "id": 2
     }
   ],
   "professores": [
@@ -25,14 +17,6 @@
       "cpf": "987.654.321-00",
       "disciplina": "Programação para Internet",
       "data_admissao": "2019-03-01"
-    },
-    {
-      "nome": "Demétrios ",
-      "email": "demetrios@gmail.com",
-      "cpf": "123.235.745-45",
-      "disciplina": "Programação Orientada a Objetos",
-      "data_admissao": "2020-03-28",
-      "id": "ACYoI3U"
     },
     {
       "nome": "Luixxx",
